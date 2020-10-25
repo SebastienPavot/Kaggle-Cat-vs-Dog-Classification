@@ -1,4 +1,4 @@
-# Kaggle-Cat-vs-Dog-Classification
+# Kaggle Competition: Classify images between dogs & cats
 
 Using Python and Keras library, the goal was to create and train CNN networks in order to perform images classification. Due to a huge amout of power needed, we performed the calculations in Google Colab. We reached an accuracy of 94% using pretrain networks on ImageNet datasets. We also compute visuals of the model activations layers. This project only aimed at developping deep learning skills for image classification and the understanding of convolutionnal layers.
 
